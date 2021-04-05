@@ -1,0 +1,44 @@
+body{
+  text-align: center;
+  background: linear-gradient(to right, #00897B ,#673AB7 )
+}
+head{
+  
+}
+h1,h2{
+  text-shadow: 2px 2px #C2185B;
+  font-size:30px;   
+  color: white;
+  font-family: 
+}
+.topic{
+  padding:20px;
+  font-size:18;
+  text-align: center;
+}
+#img1{
+  border-radius: 50%;
+  width:200px; 
+}
+p{
+  color: white;
+}
+img{
+  height: 350px; 
+}
+.menu{
+ list-style: none;
+	font-family: cursive;
+	float: right;
+  top: 10px;
+	right: 30px;
+	cursor: pointer;
+}
+li{
+  color:white;
+  font-family: Londrina Solid;
+  font-size: large;
+}
+.links; hover{
+	background-color: #880E4F;
+}
